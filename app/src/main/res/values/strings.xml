@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataManagementPrefFragment</string>
+    <string name="view_username_string">View User Name</string>
+</resources>
